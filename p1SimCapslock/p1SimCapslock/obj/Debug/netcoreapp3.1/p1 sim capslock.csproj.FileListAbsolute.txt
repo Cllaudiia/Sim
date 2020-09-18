@@ -1,0 +1,13 @@
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\bin\Debug\netcoreapp3.1\p1 sim capslock.exe
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\bin\Debug\netcoreapp3.1\p1 sim capslock.deps.json
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\bin\Debug\netcoreapp3.1\p1 sim capslock.runtimeconfig.json
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\bin\Debug\netcoreapp3.1\p1 sim capslock.runtimeconfig.dev.json
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\bin\Debug\netcoreapp3.1\p1 sim capslock.dll
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\bin\Debug\netcoreapp3.1\p1 sim capslock.pdb
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.csprojAssemblyReference.cache
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.AssemblyInfoInputs.cache
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.AssemblyInfo.cs
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.csproj.CoreCompileInputs.cache
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.dll
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.pdb
+C:\Users\tonli\source\repos\p1 sim capslock\p1 sim capslock\obj\Debug\netcoreapp3.1\p1 sim capslock.genruntimeconfig.cache
